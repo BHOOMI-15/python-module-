@@ -1,0 +1,29 @@
+						Module: 1
+
+
+Que-1] What is Python?
+Ans:   Python is computer programming language often used to build websites and software, automate tasks, and conduct data analysis.
+       Python is General purpose high level programming language it meaning it can be used to create a variety of different programs and isn’t specialized for any specific problems.
+
+Que-2] What is Software?
+Ans:   Software is a collection of computer programs and related data that provide the instructions for telling a computer what to do and how to do it.
+       Software is set of instructions, data, or programs used to operate a computer and execute specific tasks.
+
+Que-3] Types of Software?
+Ans:   There are three types of software:
+
+       1] System software: These software programs are designed to run a computer’s application programs and hardware. system software coordinates the activities and functions of the hardware and software.
+	  Example- windows, Linux, mac, etc.
+       2] Application software: The most common type of software, application software is a computer software package that performs specific function for a user, or in some cases, for another application.
+       3] Programming software: programmers use programming software to write code. Programming software and programming tools enable developers to develop, write, test and debug other software programs.
+          Example- compilers, debuggers, interpreters.
+
+Que-4] Who Developed Computer?
+Ans:   English mathematician and inventor Charles Babbage is credited with having conceived the first automatic digital computer.
+       During the mid-1830s Babbage developed plans for the Analytical Engine.
+
+
+Que-5] What is meaning of programming language?
+Ans:	A language which is used to write a program.
+	A programming language is any set of rules that converts strings, or graphical program elements in the case of visual programming languages, to various kinds of machine code output.
+	Example- C, C++, Python, Java.
